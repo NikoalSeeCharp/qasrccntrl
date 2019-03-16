@@ -1,0 +1,2 @@
+ALTER DATABASE WideWorldImportersDW
+ADD FILEGROUP [PS_Date]
